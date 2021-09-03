@@ -117,7 +117,7 @@ if(mousePressedOver(button2)){
 
 
 i= Math.round (random(1,5))
-}
+
 switch(i){
 case 1:
 text("What color was the astronaunts suit?",400,200)
@@ -193,7 +193,7 @@ case 5:
     else if(mousePressedOver(button3)){
         text("UH OH, SETBACK",800,400)
     }
-    
+} 
 
 }
 
